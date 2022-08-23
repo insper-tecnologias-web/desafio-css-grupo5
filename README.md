@@ -2,8 +2,8 @@
 
 Grupo:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
+- Alberto Mansur
+- Ariel Leventhal
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
 
 ## Desafio CSS
